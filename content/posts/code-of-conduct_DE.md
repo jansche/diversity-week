@@ -74,15 +74,18 @@ Contacts
 --------
 
 Code of Conduct Team 
-*   Jan Schenk – jan.schenk@microsoft.com, +4915158956104, Twitter: @jansche
-*   Tijana Todorovska - Tijana.Todorovska@microsoft.com, +4915158956206	 
-*   Tiffany Allen – tiffany.allen@microsoft.com, +4915158956134	 	
+
+*	Jan Schenk – jan.schenk@microsoft.com, +4915158956104, Twitter: @jansche
+*	Tijana Todorovska - Tijana.Todorovska@microsoft.com, +4915158956206	 
+*	Tiffany Allen – tiffany.allen@microsoft.com, +4915158956134	 	
  
 Organizer 
-*   Tanita Martin – Tanita.martin@microsoft.com, +4989 31762135 
+
+*	Tanita Martin – Tanita.martin@microsoft.com, +4989 31762135 
  
-Global Code of Conduct Team @ Microsoft 
-*   opencode@microsoft.com  
+Global Code of Conduct Team @ Microsoft
+
+*	opencode@microsoft.com  
 
 
 Lizenz und Namensnennung
