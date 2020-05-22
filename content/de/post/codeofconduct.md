@@ -43,7 +43,7 @@ Belästigung beinhaltet: Verletzende oder abwertende mündliche oder schriftlich
 
 
 Folgen von inakzeptablem Verhalten
--------------------------------------
+----------------------------------
 
 Inakzeptables Verhalten jeglicher Teilnehmer der Diversity Week 2020, einschließlich Sponsoren und Entscheidungsberechtigten, wird nicht toleriert. Wird das Unterlassen inakzeptablen Verhaltens verlangt, ist dem augenblicklich Folge zu leisten. 
 Wenn ein Teilnehmer sich auf inakzeptable Art und Weise verhält, steht es den Veranstaltenden zu, jegliche ihnen angemessen erscheinende Maßnahme zu ergreifen, bis einschließlich einem befristeten oder permanenten Ausschluss aus von der Diversity Week 2020 ohne Warnung. 
@@ -51,7 +51,7 @@ Wenn ein Teilnehmer sich auf inakzeptable Art und Weise verhält, steht es den V
 
 
 Wenn du inakzeptables Verhalten erlebst
-----------------------------------------------------------
+---------------------------------------
 
 Wenn du von inakzeptablem Verhalten betroffen bist, dieses beobachtest oder andere Anliegen hast, teile dies bitte so bald wie möglich einer für die Veranstaltung verantwortlichen Person mit. Du findest eine Liste der Kontaktpersonen je unterstützender Initiative dieses Verhaltenskodexes ganz unten auf der Seite. Zusätzlich stehen die Veranstaltenden zur Verfügung, um Teilnehmern dabei zu helfen, mit den lokalen Ordnungs- und Strafverfolgungskräften in Kontakt zu treten als auch ihr Sicherheitsgefühl anderweitig wieder herzustellen.  
 
@@ -92,3 +92,4 @@ Lizenz und Namensnennung
 ------------------------
 
 Der Berlin Code of Conduct steht unter der [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) Lizenz. Er basiert auf dem [pdx.rb Code of Conduct](https://pdxruby.org/CONDUCT).
+

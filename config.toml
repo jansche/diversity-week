@@ -1,4 +1,14 @@
 baseURL = "http://blue-coast-01c25121e.azurestaticapps.net/"
 languageCode = "en-us"
 title = "Diversity Week 2020 at Microsoft Germany"
-theme = "ananke"
+theme = "beautifulhugo"
+summaryLength = 7000
+DefaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    weight = 1 
+    contentDir = "content/en" # English
+  [languages.de]
+    title = "Diversity Week 2020 bei Microsoft Deutschland"
+    weight = 2
+    contentDir = "content/de" # German
