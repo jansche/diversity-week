@@ -1,6 +1,6 @@
 baseURL = "https://blue-coast-01c25121e.azurestaticapps.net/"
 languageCode = "en-us"
-title = "Create:Frontend"
+title = "Create:Frontend by Microsoft"
 theme = "beautifulhugo"
 summaryLength = 7000
 DefaultContentLanguage = "en"
