@@ -1,6 +1,6 @@
 ---
 title: "Code of Conduct"
-date: 2020-05-20T15:27:09+02:00
+date: 2020-07-215T15:51:09+02:00
 draft: false
 ---
 
@@ -15,9 +15,9 @@ Purpose
 
 A primary goal of all the conferences and user groups that refer to this Code of Conduct is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status and religion (or lack thereof).	 
  
-This Code of Conduct outlines our expectations for all those who participate in Microsoft Germany’s Charta der Vielfalt Diversity celebrations happening from May 25-29 2020 (or briefly “Diversity Week 2020”) and all related activities, as well as the consequences for	unacceptable behavior.
+This Code of Conduct outlines our expectations for all those who participate in the Microsoft event Create:Frontend, happening on June 29 2020 and all related activities, as well as the consequences for	unacceptable behavior.
  
-We invite all those who participate in our events to help us create safe and positive experiences for everyone.	 
+We invite all those who participate in our event to help us create safe and positive experiences for everyone.	 
 
 
 
@@ -28,14 +28,14 @@ A supplemental goal of this Code of Conduct is to increase open culture citizens
  
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.	 
  
-If you see someone who is making an extra effort to ensure Diversity Week 2020 is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know. 
+If you see someone who is making an extra effort to ensure Create:Frontend is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know. 
 
 
 Expected Behavior
 -----------------
 
 
-*	Participate in an authentic and active way. In doing so, you contribute to the health and longevity of Diversity Week 2020. 
+*	Participate in an authentic and active way. In doing so, you contribute to the health and longevity of Create:Frontend. 
 *	Exercise consideration and respect in your speech and actions. 
 *	Attempt collaboration before conflict. 
 *	Refrain from demeaning, discriminatory, or harassing behavior and speech. 
@@ -57,7 +57,7 @@ Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any Diversity Week 2020 attendee, including sponsors and those with decision-making authority, will not be tolerated. Anyone asked to stop unacceptable behavior is expected to comply immediately.	 	
  
-If an attendee engages in unacceptable behavior, the organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from Diversity Week 2020 without warning. 
+If an attendee engages in unacceptable behavior, the organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from Create:Frontend without warning. 
 
 
 
@@ -76,7 +76,7 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 Scope
 -----
 
-We expect all participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all Diversity Week 2020 activities and forums as well as in all one-on-one communications pertaining to these activities. 
+We expect all participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all Create:Frontend activities and forums as well as in all one-on-one communications pertaining to these activities. 
 
 
 Contacts
@@ -85,16 +85,12 @@ Contacts
 Code of Conduct Team 
 
 *	Jan Schenk – jan.schenk@microsoft.com, +4915158956104, Twitter: @jansche
-*	Tijana Todorovska - Tijana.Todorovska@microsoft.com, +4915158956206	 
-*	Tiffany Allen – tiffany.allen@microsoft.com, +4915158956134	 	
- 
-Organizer 
-
-*	Tanita Martin – Tanita.martin@microsoft.com, +4989 31762135 
+*	Nitya Narasimhan - nitya.narasimhan@microsoft.com, Twitter: @nitya	
  
 Global Code of Conduct Team @ Microsoft
 
-*	opencode@microsoft.com  
+*	opencode@microsoft.com
+*   [Microsoft Runs On Trust website](https://www.microsoft.com/en-us/legal/compliance/integrity)  
 
 
 License and attribution
