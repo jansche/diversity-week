@@ -1,4 +1,4 @@
-baseURL = "http://blue-coast-01c25121e.azurestaticapps.net/"
+baseURL = "https://blue-coast-01c25121e.azurestaticapps.net/"
 languageCode = "en-us"
 title = "Diversity Week 2020 at Microsoft Germany"
 theme = "beautifulhugo"
