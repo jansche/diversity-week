@@ -84,13 +84,14 @@ Contacts
 
 Code of Conduct Team 
 
-*	Jan Schenk – jan.schenk@microsoft.com, +4915158956104, Twitter: @jansche
-*	Nitya Narasimhan - nitya.narasimhan@microsoft.com, Twitter: @nitya	
+*	Simona Cotin, (BST, UTC+1) time zone - simona.cotin@microsoft.com, Twitter: [@simona_cotin](https://twitter.com/simona_cotin)
+*   Jan Schenk, (CEST, UTC +2) – jan.schenk@microsoft.com, +4915158956104, Twitter: [@jansche](https://twitter.com/jansche)
+*	Nitya Narasimhan, (EST, UTC -5) - nitya.narasimhan@microsoft.com, Twitter: [@nitya](https://twitter.com/nitya)	
  
 Global Code of Conduct Team @ Microsoft
 
 *	opencode@microsoft.com
-*   [Microsoft Runs On Trust website](https://www.microsoft.com/en-us/legal/compliance/integrity)  
+*   [Microsoft Runs On Trust Website](https://www.microsoft.com/en-us/legal/compliance/integrity)  
 
 
 License and attribution
