@@ -84,9 +84,11 @@ Contacts
 
 Code of Conduct Team 
 
-*	Simona Cotin, (BST, UTC+1) time zone - simona.cotin@microsoft.com, Twitter: [@simona_cotin](https://twitter.com/simona_cotin)
-*   Jan Schenk, (CEST, UTC +2) – jan.schenk@microsoft.com, +4915158956104, Twitter: [@jansche](https://twitter.com/jansche)
 *	Nitya Narasimhan, (EST, UTC -5) - nitya.narasimhan@microsoft.com, Twitter: [@nitya](https://twitter.com/nitya)	
+*	Sarah Thiam, (SST, UTC+8) time zone - sarah.thiam@microsoft.com, Twitter: [@truckerfling](https://twitter.com/truckerfling)  
+*   Cristina Gonzalez Herrero, (CEST, UTC +2) - crisgonz@microsoft.com
+*   Jan Schenk, (CEST, UTC +2) – jan.schenk@microsoft.com, +4915158956104, Twitter: [@jansche](https://twitter.com/jansche)
+
  
 Global Code of Conduct Team @ Microsoft
 
